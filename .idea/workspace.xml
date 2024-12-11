@@ -5,114 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0675c0f9-2c3d-4867-a120-c54a72b209eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/Sessao5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/out/production/Sessao5/Q1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/out/production/Sessao5/Q2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/out/production/Sessao5/Q3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/out/production/Sessao5/Q4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/out/production/Sessao5/Q5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/out/production/Sessao5/Q6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/out/production/Sessao5/Q7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/out/production/Sessao5/Q8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/src/Q1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/src/Q2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/src/Q3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/src/Q4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/src/Q5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/src/Q6/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/src/Q7/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao5/src/Q8/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/PDF/Exercicio Parte 3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/PDF/Exercicio Parte 4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/Sessao6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/out/production/Sessao6/Parte3/Q1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/out/production/Sessao6/Parte3/Q2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/out/production/Sessao6/Parte3/Q3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/out/production/Sessao6/Parte4/Q1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/out/production/Sessao6/Parte4/Q2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/out/production/Sessao6/Parte4/Q3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/out/production/Sessao6/Parte4/Q4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/out/production/Sessao6/Parte4/Q5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/src/Parte3/Q1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/src/Parte3/Q2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/src/Parte3/Q3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/src/Parte4/Q1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/src/Parte4/Q2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/src/Parte4/Q3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/src/Parte4/Q4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessao6/src/Parte4/Q5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Curso de Java Udemy.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/1 Questão/ExerciciosS4/bin/Exercico1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/1 Questão/ExerciciosS4/src/Exercico1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/1 Questão/bin/Exercico1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/1 Questão/src/Exercico1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/2 Questão/ExerciciosS4/bin/S4/Questao2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/2 Questão/ExerciciosS4/src/S4/Questao2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/2 Questão/bin/S4/Questao2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/2 Questão/src/S4/Questao2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/3 Questão/bin/S4/Questao3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/3 Questão/src/S4/Questao3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/4 Questão/bin/S4/Questão4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/Exercicios/4 Questão/src/S4/Questão4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso Java Udemy/Sessão 4/pdf/02-exercicios1-estrutura-sequencial.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 1 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 10 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 11 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 12 Sessã 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 13 Sessao 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 2 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 3 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 4 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 5 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 6 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 8 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercicio 9 sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/Exercicios sessão 6/Exercico 7 Sessão 6.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICIO 10 SESSÃO 3 - CODIGO DE ALGORITMO.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICIO 2 SESSÃO 3 - CODIGO DE ALGORITMO.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICIO 3 SESSÃO 3 - CODIGO DE ALGORITMO.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICIO 4 SESSÃO 3 - CODIGO DE ALGORITMO.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICIO 5 SESSÃO 3 - CODIGO DE ALGORITIMO.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICIO 6 SESSÃO 3 - CODIGO DE ALGORITMO.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICIO 7 SESSÃO 3 - CODIGO DE ALGORITMO.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICIO 8 SESSÃO 3 - CODIGO DE ALGORITMO.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICIO 9 SESSÃO 3 - CODIGO DE ALGORITMO.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/EXERCICO 1 SESSãO 3 - CODIGO DE ALGORITMOS.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 3/Em processo.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 1 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 10 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 11 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 12 SESSAO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 2 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 3 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 4 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 5 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 6 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 7  SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 8 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicio sessão 4/EXERCICIO 9 SESSÃO 4.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/Exercicio 1 Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/Exercicio 2 Sessão5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/Exercicio 3 Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/Exercicio 4 Sessao 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/Exercicio 5 Sessao 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/Exercicio 6 Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/Exercicio 7 Sessao 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/Exercicio 8 Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/estrutura para/Exercicio 1 (ESTRUTURA PARA) Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/estrutura para/Exercicio 2 (ESTRUTURA PARA) Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/estrutura para/Exercicio 3  (ESTRUTURA PARA) Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/estrutura para/Exercicio 4  (ESTRUTURA PARA) Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/estrutura para/Exercicio 6 (ESTRUTURA PARA) Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/estrutura para/Exercicio 7 (ESTRUTURA PARA) Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/estrutura para/Exercicio 8 (ESTRUTURA PARA) Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/codigos/exercicios sessão 5/estrutura para/Exercicio 9 (ESTRUTURA PARA) Sessão 5.ALG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/exercicios/03-estrutura-sequencial-exercicios.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/exercicios/04-estrutura-condicional-exercicios.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/exercicios/05-estruturas-repetitivas-exercicios.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/exercicios/06-vetores-exercicios.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Algoritmo e Logica de Programação/exercicios/07-matrizes-exercicios.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Olausz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Olausz&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Olausz/Estudos.git",
-    "accountId": "3a75699a-409e-42e2-b082-80174884c9f5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Olausz/Estudos.git&quot;,
+    &quot;accountId&quot;: &quot;3a75699a-409e-42e2-b082-80174884c9f5&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oNtND4P6grND88G0cg0RB8R65Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -157,9 +50,9 @@
     "Application.Main.executor": "Run",
     "Application.Parte4.Q6.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/saulo/Documents/ws Java/Estudos",
+    "last_opened_file_path": "C:/Users/saulo/Documents/ws Java/API Aluno Online",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
