@@ -12,7 +12,7 @@ public class Main {
         Pessoa[] vect = new Pessoa[n];
 
         for (int i = 0; i < vect.length; i++) {
-            System.out.println("Dados da " + i + 1 +"a pessoa");
+            System.out.println("Dados da " + (i + 1) +"a pessoa");
             sc.nextLine();
             System.out.print("Nome: ");
             String nome = sc.nextLine();
@@ -20,7 +20,7 @@ public class Main {
             System.out.print("Idade: ");
             int idade = sc.nextInt();
             System.out.println(" ");
-            System.out.print("Altura");
+            System.out.print("Altura: ");
             double altura = sc.nextDouble();
             vect[i] = new Pessoa(nome, idade, altura);
         }
@@ -38,8 +38,17 @@ public class Main {
             }
         }
 
-        double porcetagem = (menos_16 / vect.length) * 100;
+        double porcentagem = (menos_16 * 100.0) / vect.length;
 
+
+        System.out.printf("Altura media %.2f metros%n", media);
+        System.out.printf("Pessoas com menos de 16 anos: %.2f %% %n", porcentagem);
+
+        for (int i = 0; i < vect.length; i++) {
+            if (vect[i].getIdade() < 16) {
+                System.out.println(vect[i].getNome());
+            }
+        }
 
     }
 }
