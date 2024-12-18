@@ -42,7 +42,7 @@ public class Main {
 
 
         System.out.printf("Altura media %.2f metros%n", media);
-        System.out.printf("Pessoas com menos de 16 anos: %.2f %% %n", porcentagem);
+        System.out.printf("Pessoas com menos de 16 anos: %.1f %% %n", porcentagem);
 
         for (int i = 0; i < vect.length; i++) {
             if (vect[i].getIdade() < 16) {
