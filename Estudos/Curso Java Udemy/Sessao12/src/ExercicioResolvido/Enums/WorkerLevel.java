@@ -1,4 +1,4 @@
-package ExercicioResolvido.Entities;
+package ExercicioResolvido.Enums;
 
 public enum WorkerLevel {
     JUNIOR,

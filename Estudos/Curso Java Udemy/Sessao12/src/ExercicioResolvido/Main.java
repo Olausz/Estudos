@@ -2,7 +2,7 @@ package ExercicioResolvido;
 import ExercicioResolvido.Entities.Department;
 import ExercicioResolvido.Entities.HourContract;
 import ExercicioResolvido.Entities.Worker;
-import ExercicioResolvido.Entities.WorkerLevel;
+import ExercicioResolvido.Enums.WorkerLevel;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -15,7 +15,7 @@ public class Main {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        SimpleDateFormat sdf = new SimpleDateFormat("dd/mm/yyyy");
+        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
         System.out.print("Enter departement's name: ");
         String departmentName = sc.nextLine();
