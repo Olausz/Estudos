@@ -35,8 +35,12 @@ public class Main {
             checkOut = sdf.parse(sc.next());
 
             String error = reservation.updateDates(checkIn, checkOut);
-            System.out.println("Reservation: " + reservation);
-
+            if (error != null) {
+                System.out.println("Reservation " + error);
+            }
+            else {
+                System.out.println("Reservation: " + reservation);
+            }
         }
         sc.close();
     }
