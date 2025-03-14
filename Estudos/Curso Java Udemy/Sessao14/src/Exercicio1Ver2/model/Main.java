@@ -1,6 +1,7 @@
-package Exercicio1.model;
+package Exercicio1Ver2.model;
 
-import Exercicio1.model.Entities.Reservation;
+
+import Exercicio1Ver2.model.Entities.Reservation;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -29,24 +30,14 @@ public class Main {
 
             System.out.println("Update Date Reservation: ");
             System.out.print("Check-in date (dd/MM/yyyy): ");
-             checkIn = sdf.parse(sc.next());
+            checkIn = sdf.parse(sc.next());
             System.out.print("Check-in date (dd/MM/yyyy): ");
-             checkOut = sdf.parse(sc.next());
+            checkOut = sdf.parse(sc.next());
 
-            Date now = new Date();
-            if (checkIn.before(now) || checkOut.before(now)) {
-                System.out.println("Error in reservation: The reservation dates must be one of future dates!");
-            }
-            else if (!checkOut.after(checkIn)) {
-                System.out.println("Error in reservation: Check-Out date must be after Check-In date!");
-            }
-            else {
-                reservation.updateDates(checkIn, checkOut);
-                System.out.println("Reservation: " + reservation);
-            }
+            String error = reservation.updateDates(checkIn, checkOut);
+            System.out.println("Reservation: " + reservation);
+
         }
-
-
-
+        sc.close();
     }
 }
