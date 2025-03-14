@@ -41,7 +41,7 @@ public class Main {
         System.out.println("\n");
         System.out.println("Payments");
         for (Employee emp : list) {
-            System.out.printf("%s - $ %.2f", emp.getNome(), emp.payment());
+            System.out.printf("%s - $ %.2f \n", emp.getNome(), emp.payment());
         }
 
     }
